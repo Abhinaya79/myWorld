@@ -1,0 +1,80 @@
+body
+{
+    margin:0;
+
+}
+.bio
+{
+    background-image: url(a5e4e0124a8bb1bbd6a150a6bf95e99a.jpg);
+}
+.name
+{
+    color:rgb(241, 38, 241);
+}
+.head
+{
+    display:flex;
+    flex-wrap: wrap;
+    background-color: aquamarine;
+}
+.title
+{
+    display:flex;
+    flex-direction: row;
+    position:relative;
+    left:48rem;
+    top:1.9rem;
+}
+.title a
+{
+    margin-right:2rem;
+}
+.photo
+{
+    display:flex;
+    flex-direction: column;
+    background-image: url(/download\ \(3\).jpeg);
+    background-size: 100%;
+}
+.photo img
+{
+    margin-left:2rem;
+    margin-top:2rem;
+    margin-bottom:2rem;
+    margin-right:2rem;
+    border-radius: 50%;
+}
+.fullname
+{
+    display:flex;
+    flex-direction: row;
+    color:blue;
+    font-size:xx-large;
+}
+.leftphoto
+{
+    display:flex;
+    flex-direction: row;
+}
+.welcome
+{
+    background-color:color-mix(in oklab, #eb923f, #eb923f 50%);
+    align-content: center;
+    justify-content: center;
+    height:fit-content;
+    display:flex;
+    flex-wrap: wrap;
+    color: blue;
+}
+.c1
+{
+    border:5px solid orange;
+}
+.c2
+{
+    border:5px solid green;
+}
+.color
+{
+    color:blue;
+}
